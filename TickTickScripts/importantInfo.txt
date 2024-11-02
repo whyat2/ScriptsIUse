@@ -1,0 +1,5 @@
+So just using the ticktick-py lib will not be sufficient
+The github here has a fork that works: https://github.com/lazeroffmichael/ticktick-py/pull/55
+
+Then Manually Change Firefox as here https://github.com/lazeroffmichael/ticktick-py/pull/54/files to version
+    got from checking the login on the default web browser used by python code
